@@ -33,11 +33,12 @@ namespace WebApplication1.Controllers
         {
 
             string result = "";
+            var buff_temp = "";
 
             if (postcode != "" && postcode != null)
             {
-                
 
+                buff_temp = "1111";
             }
 
 
